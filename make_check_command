@@ -1,0 +1,1 @@
+pushd %{buildroot}%{gem_dir}/gems/minitest-autotest-1.0.1 && rake --trace test TESTOPTS="-v" && popd
