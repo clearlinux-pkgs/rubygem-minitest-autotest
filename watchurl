@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-03-03 21:42:32.808626
+# {'~>1.0', 'development'}
+watchurl=https://rubygems.org/gems/minitest-autotest/versions/([0-1]\.[0-9]{1,2}(\.[0-9a-zA-Z]+)?)
