@@ -4,7 +4,7 @@
 #
 Name     : rubygem-minitest-autotest
 Version  : 1.0.2
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/minitest-autotest-1.0.2.gem
 Source0  : https://rubygems.org/downloads/minitest-autotest-1.0.2.gem
 Summary  : No detailed summary available
